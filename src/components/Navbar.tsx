@@ -16,7 +16,7 @@ const Navbar = () => {
                 style={{ color: "#4fc4cf" }}
                 className="text-xl font-bold uppercase tracking-tight"
               >
-                Store Book
+                Yuden BookStore
               </span>
             </div>
           </Link>
